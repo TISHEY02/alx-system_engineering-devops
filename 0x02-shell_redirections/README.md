@@ -1,1 +1,1 @@
-First README
+This directory is for shell redirections
